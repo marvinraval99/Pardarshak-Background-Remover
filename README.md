@@ -19,3 +19,8 @@
 
 ### Experimental:
 ![image2](https://user-images.githubusercontent.com/31762803/97603621-a262c100-1a32-11eb-8daa-4a44acb95100.PNG)
+
+## In Version 2 Now You can Scroll image and select color:
+
+
+![scroll](https://user-images.githubusercontent.com/31762803/98663795-8a166e80-236f-11eb-839d-a0ff5c972fb3.PNG)
