@@ -15,12 +15,21 @@
 #####   -it might show "Not responding" or take a minute or two if the image selected is big or have high resolution.
 
 ### App Look:
-![image1](https://user-images.githubusercontent.com/31762803/97603484-80693e80-1a32-11eb-9436-8381172b06a1.PNG)
 
-### Experimental:
-![image2](https://user-images.githubusercontent.com/31762803/97603621-a262c100-1a32-11eb-8daa-4a44acb95100.PNG)
+### Now with the version 6 in new 7 themes :
+   ![grouped](https://user-images.githubusercontent.com/31762803/99097996-62890580-25fe-11eb-8182-e7c662325945.png)
+   
+### Window For selecting a pixel color:
+   ![scroll](https://user-images.githubusercontent.com/31762803/98663795-8a166e80-236f-11eb-839d-a0ff5c972fb3.PNG)
 
-## In Version 2 Now You can Scroll image and select color:
+## What is new in Version 6:
+
+### 1. Blazingly Faster in removing background than version 1 and 2.
+### 2. Now a new feature for blurring a image.
+### 3. Now with 7 beautiful different themes.
+### 4. Now with an Experimental Magic button.
+### 5. Ability to choose any pixel from whole image.
+### 6. New Style Logo.
 
 
-![scroll](https://user-images.githubusercontent.com/31762803/98663795-8a166e80-236f-11eb-839d-a0ff5c972fb3.PNG)
+
