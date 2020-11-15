@@ -17,10 +17,10 @@
 ### App Look:
 
 ### Now with the version 6 in new 7 themes :
-   ![grouped](https://user-images.githubusercontent.com/31762803/99097996-62890580-25fe-11eb-8182-e7c662325945.png)
+   ![](images/grouped.png)
    
 ### Window For selecting a pixel color:
-   ![scroll](https://user-images.githubusercontent.com/31762803/98663795-8a166e80-236f-11eb-839d-a0ff5c972fb3.PNG)
+   ![](images/scroll.PNG)
 
 ## What is new in Version 6:
 
